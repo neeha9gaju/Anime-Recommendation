@@ -1,4 +1,4 @@
-project title: A-Z Anime
+Project Title: A-Z Anime
 group name: Sentinels
 group number: 19
 | Member Names  | Member Emails | Member IDs
